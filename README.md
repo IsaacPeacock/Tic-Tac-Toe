@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe Game I made in Python
+Tic Tac Toe Game I made in Python. It is fully functioning now. The computer looks for a winning position or blocking position and if neither are there, it will then randomly choose a button to click. This seems to work well enough for a tic tac toe game, but there is definitly ways it could be even better. The UI is basic but feel free to make changes and make it better. Hope you enjoy.
